@@ -1,0 +1,29 @@
+### Java Custom template
+/target/
+
+### IntelliJ IDEA ###
+/.idea/
+/src/main/resources/auth.properties
+
+### Eclipse ###
+/.apt_generated/
+/.classpath/
+/.factorypath/
+/.project/
+/.settings/
+/.springBeans/
+/.sts4-cache/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+
+### VS Code ###
+/.vscode/
+
+### Mac OS ###
+/.DS_Store/
