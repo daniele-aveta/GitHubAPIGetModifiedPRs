@@ -1,0 +1,9 @@
+###############################################################################
+# Copy this file in the resource folder and remove the '.template' extension. #
+# Replace the value <authorization_bearer_token> for the parameter auth with  #
+# the actual bearer token.                                                    #
+#                                                                             #
+###############################################################################
+
+#Bearer token for the authorization header
+auth = <authorization_bearer_token>
